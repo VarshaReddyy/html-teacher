@@ -1,0 +1,42 @@
+html{
+    background: peachpuff
+}
+h1{
+    background-color: rgb(253, 238, 210);
+    border: rgba(186, 17, 56, 0.233) 2px solid;
+    border-radius: 40px;
+    color: rgba(186, 17, 56, 0.532);
+    text-transform: capitalize;
+    font-size: 70px;
+    text-align: center;
+}
+p{
+    text-transform: capitalize;
+    margin: 0px;
+    font-family: 'Pacifico', cursive;
+    font-size: 20px;
+    color: rgba(105, 3, 33, 0.664);
+}
+.box1{
+    float: left;
+    display: inline-block;
+    margin: 40px;
+}
+div.box2{
+    display: inline-block;
+    position: relative;
+    top: 30px;
+    height: 200px;
+    width: 700px;
+}
+.box3{
+    float: right;
+    display: inline;
+    position: absolute;
+    margin: 40px;
+    }
+img{
+    
+    height: 200px;
+    width: 200px;
+}
